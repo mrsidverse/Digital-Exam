@@ -4,10 +4,10 @@
 - It also includes admin panel where admin can add or modify any quiz.
 - User can register them to start quiz.
 
+## Homepage
 ![Homepage](https://github.com/mrsid4u/Digital-Exam/blob/master/images/ImgHome.png "Homepage")
 
-
-##Tech Used
+## Tech Used
 
 - HTML 
 - CSS
